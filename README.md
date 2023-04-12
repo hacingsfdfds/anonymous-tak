@@ -16,7 +16,11 @@ pkg install python
 git clone https://github.com/hacingsfdfds/anonymous-tak.git 
 
 pip. install pystyle
+
+
+
 pip install requests
+
 
 cd anonymous 
 
